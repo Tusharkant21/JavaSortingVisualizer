@@ -3,7 +3,7 @@
 # How Run on your Desktop
 This is a template to be used when creating ReadMe files for your Github repositories
 
-![Project Image](project-image-url)
+![Project Image](https://drive.google.com/file/d/1EmcHHYFl6rw1O3oc_6jJsRCYX_wMmD1F/view?usp=sharing)
 
 
 

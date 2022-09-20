@@ -27,7 +27,7 @@ in This project you will see how sorting algorithm work and you will get experin
 - 1 Java
 - 2 Swing GUI
 
-[Back To The Top](### Table of Contents)
+[Back To The Top](# JavaSortingVisualizer)
 
 ---
 
@@ -41,7 +41,7 @@ in This project you will see how sorting algorithm work and you will get experin
 
 
    
-[Back To The Top](### Table of Contents)
+[Back To The Top](# JavaSortingVisualizer)
 
 
 

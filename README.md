@@ -1,7 +1,7 @@
 # JavaSortingVisualizer
 
 # How Run on your Desktop
-This is a template to be used when creating ReadMe files for your Github repositories
+
 
 
 

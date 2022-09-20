@@ -47,9 +47,7 @@ in This project you will see how sorting algorithm work and you will get experin
 
 ---
 
-## License
 
-MIT License
 
 Copyright (c) [2022] [Tusharkant21]
 

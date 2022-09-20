@@ -33,7 +33,7 @@ in This project you will see how sorting algorithm work and you will get experin
 
 ## How To Use
 
-#### Clone of copy Code and create java project and Make class names by
+#### Clone or copy Code and create java project and Make class names by
 1 insertionSort.java
 2 selectionSort.java
 3 bubbleSort.java
